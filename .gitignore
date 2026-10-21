@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+   # Trained model files are too large for GitHub
+   BTech_Project_Model/
+   BTech_Model.zip
+   t5_results/
+
+   # Kaggle credentials - never upload these
+   kaggle.json
+
