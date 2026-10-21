@@ -1,0 +1,14 @@
+# Trained model files are too large for GitHub - keep them out of the repo
+BTech_Project_Model/
+BTech_Model.zip
+t5_results/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Kaggle credentials - never upload these
+kaggle.json

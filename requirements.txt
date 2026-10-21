@@ -1,0 +1,10 @@
+# Needed to run the Streamlit app (app.py)
+streamlit
+torch
+transformers
+sentencepiece
+
+# Only needed to train the model (training_notebook.ipynb on Google Colab):
+# datasets
+# accelerate
+# pandas
